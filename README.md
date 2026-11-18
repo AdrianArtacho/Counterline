@@ -1,4 +1,4 @@
-# Counterline
+# [Counterline](https://adrianartacho.github.io/Counterline/)
 
 An Android-friendly web prototype for learning a cantus firmus, singing a second part, and viewing the live interval. No backend, account, audio upload, or npm dependencies.
 
@@ -57,3 +57,5 @@ Phrases are limited to two minutes; imports to 40 MB. Imported audio is decoded 
 - `.github/workflows/pages.yml`: tests and GitHub Pages publication
 
 Research that informed the design: [score-informed tracking in Soundprism](https://labsites.rochester.edu/air/projects/PriorResearch/PriorResearch.html), [multi-F0 modeling in SATB choirs](https://arxiv.org/abs/1904.05086). This implementation is an independent lightweight heuristic, not a port of those systems.
+
+## [ToDo](https://trello.com/c/hPFGmQDZ/129-counterline)
